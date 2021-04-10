@@ -1,4 +1,5 @@
 <?php include('includes/_header.php');?>
+
 <div class="bg">
   <table width="100%" border="0" cellspacing="0" cellpadding="0">
     <tr>
@@ -82,7 +83,7 @@
         <tr>
           <td height="30" class="wel"><table width="100%" border="0" cellspacing="0" cellpadding="0">
             <tr>
-              <td width="33%">Company Profile</td>
+              <td width="33%">Our Clients</td>
               <td width="36%">&nbsp;</td>
               <td width="31%"><img src="images/rana1.gif" width="325" height="28" border="0" usemap="#Map" /></td>
             </tr>
@@ -91,15 +92,62 @@
         <tr>
           <td height="30"><table width="100%" border="0" cellspacing="0" cellpadding="0">
             <tr>
-              <td width="31%" valign="top"><img src="images/about_us_1.jpg" width="300" height="308" /></td>
-              <td width="1%">&nbsp;</td>
-              <td width="68%"><p class="content">We have great pleasure in introducing ourselves as Earth Mover, Earth Work, and Earth Basement & Earth Filling, Earth Shifting contractors who are proficient in performing Earth Excavation Contracts with punctuality And competence keeping in view high standard of Earth work.<br /><br />
-
-We offer Hiring of Heavy Earth Moving Equipment Machinery and Hydraulic Equipment Machinery for various construction, excavation or Infrastructural development projects. These equipment and machines are Available on Hourly/Daily / Weekly / Monthly basis depending upon the Quantum of work.<br /><br />
-
-Long term hire basic is also offered as per the requirements of the Clients .All the machines are delivered at the client's destination with Minimum time of placing of the order. The broad range of earth movers Include All type of Earth Work, Road Work Dismantling & Land Leveling ,Also available Tata Hitachi EX- 200,  Hyundai R215L With Breaker, Hyundai R140L, Tata Hitachi EX-110 and JCB JS 140 & JCB 3 D Excavators cum Loaders, L & T Komatsu Pc 200Lc Excavators, Tata Dumpers, BHARATBENZ, Hyva , Tractors with Hydraulic Trolley , Tactors With Hydraulic compressor Tractors for Leveling, Water Tanker ,Dozer D-6 And more.<br /><br />
-
-The Company owns large quantities of Earth Work equipments to Handle projects of any magnitude .We have got sufficient field job utilizing Modern Earth Movers method & latest techniques; we have able to achieve Scheduled targets with high quality .We are having experience of completing Several contracts of All type of Earth Work, Road Work and Rock Work Dismantling & Land Leveling .We are taking up contracts of different Companies with extremely selected clients in the private sector.</p></td>
+              <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                <tr>
+                  <td align="center"><img src="images/client-1.jpg" width="198" height="79" /></td>
+                  <td align="center"><img src="images/client-2.jpg" width="198" height="79" /></td>
+                  <td align="center"><img src="images/client-3.jpg" width="198" height="79" /></td>
+                  <td align="center"><img src="images/client-4.jpg" width="198" height="79" /></td>
+                </tr>
+                <tr>
+                  <td align="center">&nbsp;</td>
+                  <td align="center">&nbsp;</td>
+                  <td align="center">&nbsp;</td>
+                  <td align="center">&nbsp;</td>
+                </tr>
+                <tr>
+                  <td align="center"><img src="images/client-5.jpg" width="198" height="79" /></td>
+                  <td align="center"><img src="images/client-6.jpg" width="198" height="79" /></td>
+                  <td align="center"><img src="images/client-7.jpg" width="198" height="79" /></td>
+                  <td align="center"><img src="images/client-8.jpg" width="198" height="79" /></td>
+                </tr>
+                <tr>
+                  <td align="center">&nbsp;</td>
+                  <td align="center">&nbsp;</td>
+                  <td align="center">&nbsp;</td>
+                  <td align="center">&nbsp;</td>
+                </tr>
+                <tr>
+                  <td align="center"><img src="images/client-9.jpg" width="198" height="79" /></td>
+                  <td align="center"><img src="images/client-10.jpg" width="198" height="79" /></td>
+                  <td align="center"><img src="images/client-11.jpg" width="198" height="79" /></td>
+                  <td align="center"><img src="images/client-12.jpg" width="198" height="79" /></td>
+                </tr>
+                <tr>
+                  <td align="center">&nbsp;</td>
+                  <td align="center">&nbsp;</td>
+                  <td align="center">&nbsp;</td>
+                  <td align="center">&nbsp;</td>
+                </tr>
+                <tr>
+                  <td align="center"><img src="images/client-13.jpg" width="198" height="79" /></td>
+                  <td align="center"><img src="images/client-14.jpg" width="198" height="79" /></td>
+                  <td align="center"><img src="images/client-15.jpg" width="198" height="79" /></td>
+                  <td align="center"><img src="images/client-16.jpg" width="198" height="79" /></td>
+                </tr>
+                <tr>
+                  <td align="center">&nbsp;</td>
+                  <td align="center">&nbsp;</td>
+                  <td align="center">&nbsp;</td>
+                  <td align="center">&nbsp;</td>
+                </tr>
+                <tr>
+                  <td align="center"><img src="images/client-17.jpg" width="198" height="79" /></td>
+                  <td align="center">&nbsp;</td>
+                  <td align="center">&nbsp;</td>
+                  <td align="center">&nbsp;</td>
+                </tr>
+              </table></td>
             </tr>
           </table></td>
         </tr>
@@ -123,7 +171,7 @@ The Company owns large quantities of Earth Work equipments to Handle projects of
 </div>
 
 <map name="Map" id="Map">
-  <area shape="rect" coords="9,5,321,24" href="rana-pratap-group-companies.html" />
+  <area shape="rect" coords="6,3,317,25" href="rana-pratap-group-companies.html" />
 </map>
 </body>
 </html>
