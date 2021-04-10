@@ -1,0 +1,342 @@
+#slideshow {
+    position:relative;
+    height:240px;
+}
+
+#slideshow IMG {
+    position:absolute;
+    top:1px;
+    left:0px;
+    z-index:8;
+    opacity:0.0;
+}
+
+#slideshow IMG.active {
+    z-index:10;
+    opacity:1.0;
+}
+
+#slideshow IMG.last-active {
+    z-index:9;
+}
+/*=====================================================*/
+
+
+
+.ddsmoothmenu{
+font: normal 11px Verdana;
+background: none; /*background of menu bar (default state)*/
+width:980px;
+height:38px;
+font-weight:bold;
+margin-left:10px;
+margin-top:6px;
+}
+
+.ddsmoothmenu ul{
+z-index:100;
+margin: 0;
+padding: 0;
+list-style-type: none;
+}
+
+/*Top level list items*/
+.ddsmoothmenu ul li{
+position: relative;
+display: inline;
+float: left;
+}
+
+/*Top level menu link items style*/
+.ddsmoothmenu ul li a{
+display: block;
+background: url(../images/navi-bg.png); /*background of menu items (default state)*/
+padding: 12px 8px;
+border-right: 1px double  #1f1f1f;
+color: #e2e2e2;
+text-decoration: none;
+}
+
+* html .ddsmoothmenu ul li a{ /*IE6 hack to get sub menu links to behave correctly*/
+display: inline-block;
+}
+
+.ddsmoothmenu ul li a:link, .ddsmoothmenu ul li a:visited{
+color:#FFFFFF;
+}
+
+.ddsmoothmenu ul li a.selected{ /*CSS class that's dynamically added to the currently active menu items' LI A element*/
+background:#000000; 
+color: white;
+}
+
+.ddsmoothmenu ul li a:hover{
+background:#000000; /*background of menu items during onmouseover (hover state)*/
+color: white;
+}
+	
+/*1st sub level menu*/
+.ddsmoothmenu ul li ul{
+position: absolute;
+left: 0;
+display: none; /*collapse all sub menus to begin with*/
+visibility: hidden;
+}
+
+/*Sub level menu list items (undo style from Top level List Items)*/
+.ddsmoothmenu ul li ul li{
+display: list-item;
+float: none;
+}
+
+/*All subsequent sub menu levels vertical offset after 1st level sub menu */
+.ddsmoothmenu ul li ul li ul{
+top: 0;
+}
+
+/* Sub level menu links style */
+.ddsmoothmenu ul li ul li a{
+font: normal 11px Verdana;
+width: 250px; /*width of sub menus*/
+padding: 6px;
+margin: 0;
+border-top-width: 0;
+border-bottom: 1px solid #1f1f1f;
+}
+
+/* Holly Hack for IE \*/
+* html .ddsmoothmenu{height: 1%;} /*Holly Hack for IE7 and below*/
+
+
+/* ######### CSS classes applied to down and right arrow images  ######### */
+
+.downarrowclass{
+position: absolute;
+top: 17px;
+right: 3px;
+}
+
+.rightarrowclass{
+position: absolute;
+top: 13px;
+right: 5px;
+}
+
+/* ######### CSS for shadow added to sub menus  ######### */
+
+.ddshadow{
+position: absolute;
+left: 0;
+top: 0;
+width: 0;
+height: 0;
+background:none;
+}
+
+.toplevelshadow{ /*shadow opacity. Doesn't work in IE*/
+opacity: 0.8;
+}
+
+/*=====================================================*/
+
+
+body {
+	font-family: Arial, Helvetica, sans-serif;
+	padding:0px;
+	margin:0px;
+	color: #333;
+	font-size:12px;
+	background:url(../images/new-bg.jpg);}
+	
+#wrapper{
+width:999px;
+margin-left:auto;
+margin-right:auto;}	
+
+
+#header{
+width:999px;
+background: url(../images/header1.jpg);
+height:150px;
+float:left;
+background-repeat:no-repeat;}
+
+.bg{
+width:999px;
+background:#FFFFFF;
+float:left;}
+
+.main{
+width:999px;
+float:left;}
+
+
+.menu{
+font-family:Arial, Helvetica, sans-serif;
+font-size:12px;
+color:#FFFFFF;
+text-decoration:none;}
+
+.menu:hover{
+color:#CCCCCC;
+text-decoration:none;}
+
+.left-part{
+background:url(../images/left-part.jpg);
+height:420px;
+width:213px;
+background-repeat:no-repeat;}
+
+.wel{
+font-family:Arial, Helvetica, sans-serif;
+font-size:18px;
+text-align:justify;
+font-weight:bold;
+color:#333333;}
+
+
+.text{
+font-family:Arial, Helvetica, sans-serif;
+font-size:11px;
+text-align:justify;
+line-height:25px;
+font-weight:normal;
+color:#333333;}
+
+.pointer{
+font-family:Arial, Helvetica, sans-serif;
+font-size:11px;
+text-align:justify;
+font-weight:normal;
+color:#ececec;}
+
+.pointer:hover{
+color:#000000;}
+
+
+.border{
+border:#999999 dashed 1px;
+color:#333333;
+margin-top:8px;
+background:#FFFFFF;
+height:280px;
+padding-left:4px;
+padding-right:4px;
+text-align:justify;
+line-height:25px;
+padding-top:4px;
+width:780px;
+float:left;}
+
+.enquiry-bg{
+background:url(../images/enquiry-bg.jpg);
+width:200px;
+height:280px;
+background-repeat:no-repeat;}
+
+.links
+{font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#787878; text-decoration:none; font-weight:normal;}
+
+.links:hover
+{color:#000; text-decoration:underline;}
+
+.machine{
+font-family:Arial, Helvetica, sans-serif;
+font-size:18px;
+text-align:justify;
+font-weight:bold;
+color: #900;}
+
+.content
+{font-family:arial; font-size:12px; color:#666; text-decoration:none; font-weight:normal; line-height:16px; text-align:justify;}
+
+
+
+
+#main-part
+{width:982px; padding:0 0 0 0; margin:0 0 0 0; float:left;}
+
+#our-clients
+{background:url(../images/client-box.png); width:693px; height:28px; padding:0 0 0 0; margin:0 0 0 7px; float:left; height:88px;}
+
+#marquee-clients
+{width:550px; padding:0 0 0 0; margin:6px 0 0 130px; float:left;}
+
+#main-part1
+{width:982px; padding:0 0 0 0; margin:5px 0 0 0; float:left;}
+
+#machines
+{width:960px; padding:0 0 0 0; margin:10px 0 0 15px; float:left;}
+
+#our-products
+{ width:218px; padding:0 0 0 0; margin:15px 0 0 15px; float:left;}
+
+.our-products
+{ width:218px; padding:0 0 0 0; margin:0px 0 0 0px; float:left;}
+
+.products-bg
+{background:url(../images/products-bg.png); width:218px; height:32px; padding:0 0 0 0; margin:0 0 0 0; float:left;}
+
+.products-link
+{width:170px; padding:0 0 0 0; margin:4px 0 0 18px; float:left; text-align:justify; font-family:Arial; color:#333333; text-decoration:none; font-weight:normal; text-shadow: #d5d5d5 -1px -1px; font-size:12px;}
+
+.products-link:hover
+{text-decoration:underline;}
+
+#welcome
+{width:728px; padding:0 0 0 0; margin:15px 0 0 15px; float:left; }
+
+.welcome
+{width:728px; padding: 0 0 0 0; margin:5px 0 0 0; float:left; font-family:arial; font-size:12px; color:#656565; text-decoration:none; font-weight:normal; text-align:justify;}
+
+.marketing
+{ width:201px; padding:0 0 0 0; margin:0 0 0 0; float:left;}
+
+.export
+{width:201px; padding:0 0 0 0; margin:0 0 0 55px; float:left;}
+
+.customer
+{width:201px; padding:0 0 0 0; margin:0 0 0 55px; float:left;}
+
+.export1
+{width:201px; padding:0 0 0 0; margin:0 0 0 0px; float:left;}
+
+.customer1
+{width:201px; padding:0 0 0 0; margin:0 0 0 0px; float:left;}
+
+.headings
+{font-family:Arial; font-size:18px; padding:0 0 0 0; margin:0 0 0 0; color:#929292; font-weight:bold; text-decoration:none; width:201px;}
+
+.enquiry-box
+{background:url(../images/enquiry-box.png); width:218px; height:265px; padding:0 0 0 0; margin:0 0 0 0; float:left;}
+
+#bottom
+{width:982px; padding:0 0 0 0; margin:0 0 0 0; float:left; height:69px; background:url(../images/bottom.png);}
+
+.copy
+{font-family:tahoma; width:982px; padding:0 0 0 0; margin:20px 0 0 0; font-size:11px; color:#333333; text-align:center; line-height:20px;}
+
+.products1
+{width:228px; padding:0 0 0 0; margin:0 0 0 0; float:left; text-decoration:none; font-weight:bold; text-align:center; font-size:11px; color:#003366; text-decoration:none; text-align:center;}
+
+.products2
+{width:228px; padding:0 0 0 0; margin:0 0 0 20px; float:left;text-decoration:none; font-weight:bold; text-align:center; font-size:12px; color:#003366; text-decoration:none; text-align:center; font-family:tahoma;}
+
+.shrink
+{width:225px; padding:0 0 0 0; margin:0 0 0 0; float:left;}
+
+.shrink-matter
+{width:482px; padding:0 0 0 0; margin:0 0 0 20px; float:left;}
+
+.text
+{font-family:arial; font-size:12px; color:#333333; text-decoration:none; font-weight:normal; padding:0 0 0 0; margin:0 0 0 0; text-align:justify; line-height:20px;}
+
+.text1
+{font-family:tahoma; font-size:12px; color:#575757; text-decoration:none; font-weight:normal; padding:0 0 0 0; margin:0 0 0 0; text-align:justify; line-height:20px;}
+
+
+.read-more
+{font-family:tahoma; font-size:11px; color: #bc7129; text-decoration:none; font-weight:bold; }
+
+.read-more:hover
+{color:#333333; text-decoration:underline;}
