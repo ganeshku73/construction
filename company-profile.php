@@ -55,6 +55,9 @@
             </tr>
           </table></td>
         </tr>
+        <tr>
+          <td>&nbsp;</td>
+        </tr>
         
         
       </table></td>
@@ -75,67 +78,35 @@
   </table>
   <table width="100%" border="0" cellspacing="0" cellpadding="0">
     <tr>
-      <td><div id="main-part">
-<div id="our-products">
-<div class="our-products"><img src="images/products.png" width="218" height="35" /></div>
-<div class="our-products"><img src="images/left-pic.jpg" width="218" height="224" /><br /><br /></div>
-<div class="our-products">
-  
-<div class="our-products"><img src="images/our-clients.jpg" width="218" height="35" /></div>
-<div class="our-products"><table width="92%" border="0" align="center" cellpadding="0" cellspacing="0">
-                                <tr>
-                                  <td>&nbsp;</td>
-                                </tr>
-                                <tr>
-                                  <td><div align="justify" class="text"><span style="font-weight: bold">
-                                      <marquee direction="up" scrollamount="2" style="height:160px; cursor:pointer" onmouseover="this.setAttribute('scrollamount', 0, 0);" onmouseout="this.setAttribute('scrollamount', 1, 0);">
-                                      <img src="images/client-1.jpg" width="198" height="79" />&nbsp;<img src="images/client-2.jpg" width="198" height="79" />&nbsp;<img src="images/client-3.jpg" width="198" height="79" />&nbsp;<img src="images/client-4.jpg" width="198" height="79" />&nbsp;<img src="images/client-5.jpg" width="198" height="79" />&nbsp;<img src="images/client-6.jpg" width="198" height="79" />&nbsp;<img src="images/client-7.jpg" width="198" height="79" />&nbsp;<img src="images/client-8.jpg" width="198" height="79" />&nbsp;<img src="images/client-9.jpg" width="198" height="79" />
-                                      </marquee>
-                                  </span></div></td>
-                                </tr>
-                                <tr>
-                                  <td>&nbsp;</td>
-                                </tr>
-                            </table>
-</div>
-<div class="our-products"><img src="images/client-bottom.jpg" width="218" height="13" /></div>
-</div>
-</div>
-<div id="welcome">
-<div class="welcome"><img src="images/welcome.jpg" width="532" height="47" /><img src="images/rana.gif" width="193" height="47" border="0" usemap="#Map" /></div>
-<div class="welcome">
-  <p>We avail this opportunity to introducing ourselves as one of leading civil Contractor specialized in<strong> Earthwork in excavation and Earth Filling, Rock excavation, building demolishing Work and Road Construction Project.</strong> Serving Various esteemed organization since last 18 years. </p>
-  <p>We are one of the leading professionals, fully equipped with latest Construction machinery as required for <strong>Excavation, leveling, breaker, Dressing, compaction etc</strong>. &amp; having the team of qualified and experience Managers professinals and civil Engineers to deliver the right quality, Workmanship as well versed with most modern construction techniques to Suit the<strong> project requirement safety and time schedule</strong>.</p>
-  <p>We take up complete responsibility of project management, which Includes execution and coordination. It will be our endeavor to complete the Project in lowest possible time frame with safety and least amount of funds Input of owner. It would be a matter of privilege for us to work your organization Our Services will be with total commitment and declaration.</p>
-</div>
-<div class="welcome"><img src="images/dot-line.png" width="728" height="1" /></div>
-<div class="welcome">&nbsp;</div>
-<div class="welcome">
-  <table width="100%" border="0" cellspacing="0" cellpadding="0">
-    <tr>
-      <td width="44%"><img src="images/demolition-services.png" width="322" height="190" /></td>
-      <td width="2%">&nbsp;</td>
-      <td width="54%"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <td><table width="98%" border="0" align="center" cellpadding="0" cellspacing="0">
         <tr>
-          <td><img src="images/demolition.png" width="189" height="26" /></td>
+          <td height="30" class="wel"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+            <tr>
+              <td width="33%">Company Profile</td>
+              <td width="36%">&nbsp;</td>
+              <td width="31%"><img src="images/rana1.gif" width="325" height="28" border="0" usemap="#Map" /></td>
+            </tr>
+          </table></td>
         </tr>
         <tr>
-          <td><strong>Old Building Demolition Services</strong><br />
-            Rana Pratap Construction we are also engaged in undertaking demolition, demolishing and dismantling projects. Our highly qualified and experienced professionals that are fully trained and hold the capability to handle all types of demolition / dismantling / demolishing jobs. In these services, we carry out recycling of material and complete removal of buildings &amp; partial demolition of all types of structures or plant &amp; machinery from small houses for private sectors to large industrial or residential site.</td>
+          <td height="30"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+            <tr>
+              <td width="31%" valign="top"><img src="images/about_us_1.jpg" width="300" height="308" /></td>
+              <td width="1%">&nbsp;</td>
+              <td width="68%"><p class="content">We have great pleasure in introducing ourselves as Earth Mover, Earth Work, and Earth Basement & Earth Filling, Earth Shifting contractors who are proficient in performing Earth Excavation Contracts with punctuality And competence keeping in view high standard of Earth work.<br /><br />
+
+We offer Hiring of Heavy Earth Moving Equipment Machinery and Hydraulic Equipment Machinery for various construction, excavation or Infrastructural development projects. These equipment and machines are Available on Hourly/Daily / Weekly / Monthly basis depending upon the Quantum of work.<br /><br />
+
+Long term hire basic is also offered as per the requirements of the Clients .All the machines are delivered at the client's destination with Minimum time of placing of the order. The broad range of earth movers Include All type of Earth Work, Road Work Dismantling & Land Leveling ,Also available Tata Hitachi EX- 200,  Hyundai R215L With Breaker, Hyundai R140L, Tata Hitachi EX-110 and JCB JS 140 & JCB 3 D Excavators cum Loaders, L & T Komatsu Pc 200Lc Excavators, Tata Dumpers, BHARATBENZ, Hyva , Tractors with Hydraulic Trolley , Tactors With Hydraulic compressor Tractors for Leveling, Water Tanker ,Dozer D-6 And more.<br /><br />
+
+The Company owns large quantities of Earth Work equipments to Handle projects of any magnitude .We have got sufficient field job utilizing Modern Earth Movers method & latest techniques; we have able to achieve Scheduled targets with high quality .We are having experience of completing Several contracts of All type of Earth Work, Road Work and Rock Work Dismantling & Land Leveling .We are taking up contracts of different Companies with extremely selected clients in the private sector.</p></td>
+            </tr>
+          </table></td>
         </tr>
         <tr>
-          <td>&nbsp;</td>
+          <td height="30">&nbsp;</td>
         </tr>
       </table></td>
-    </tr>
-  </table>
-</div>
-<div class="welcome"><img src="images/dot-line.png" width="728" height="1" /></div>
-<div class="welcome">&nbsp;</div>
-<div class="welcome"><img src="images/earthmover_machines.png" width="728" height="105" /></div>
-</div>
-
-</div></td>
     </tr>
   </table>
   <table width="100%" border="0" cellspacing="0" cellpadding="0">
@@ -164,7 +135,7 @@
 </div>
 
 <map name="Map" id="Map">
-  <area shape="rect" coords="7,4,187,41" href="rana-pratap-group-companies.html" />
+  <area shape="rect" coords="9,5,321,24" href="rana-pratap-group-companies.html" />
 </map>
 </body>
 </html>
