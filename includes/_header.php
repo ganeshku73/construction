@@ -103,35 +103,35 @@ function calc()
     <tr>
       <td><div class="ddsmoothmenu" id="smoothmenu1">
         <ul>
-          <li style="z-index: 91;"><a class=""  href="index.html">Home</a></li>
-          <li style="z-index: 91;"><a class=""  href="company-profile.html">Company Profile</a></li>
-          <li style="z-index: 91;"><a class="" href="our-clients.html">Our Clients</a></li>
+          <li style="z-index: 91;"><a class=""  href="index.php">Home</a></li>
+          <li style="z-index: 91;"><a class=""  href="company-profile.php">Company Profile</a></li>
+          <li style="z-index: 91;"><a class="" href="our-clients.php">Our Clients</a></li>
           <li style="z-index: 98;"><a class=""  href="#">Available Equipments</a>
             <ul style="display: none; top: 29px; visibility: visible; left: 0px; width: 193px;">
-            <li><a href="excavator-hyundai-r215l-with-rock-breaker.html">Excavator Hyundai R215L with Rock Breaker</a></li>
-            <li><a href="excavator-hyundai-r140l.html">Excavator Hyundai R140L</a></li>
-              <li><a href="excavator-lt-komatsu-pc-200.html">Excavator L&amp;T Komatsu PC-200</a></li>
-              <li><a href="excavator-lt-komatsu-pc-200-long-boom.html">Excavator L&amp;T Komatsu PC-200 Long Boom</a></li>
-              <li><a href="vibratore-roller.html">Vibratore Roller</a></li>
-              <li><a href="pevar-machine.html">Pevar Machine</a></li>
-              <li><a href="excavator-cum-rock-breaker-tata-ex-200.html">Excavator cum Rock Breaker Tata Ex-200</a></li>
-              <li><a href="excavator-tata-ex-120.html">Excavator Tata Ex-120</a></li>
-              <li><a href="excavator-cum-loader-jcb.html">Excavator cum Loader JCB (3DX)</a></li>
-              <li><a href="hyva-tata.html">Hyva Tata (600cft)</a></li>
-              <li><a href="rmc-concrete-mixer.html">Concrete Mixer</a></li>
-              <li><a href="bharat-benz-1623c.html">Bharat Benz 1623C</a></li>
-              <li><a href="tractor-with-hydraulic-trolly.html">Tractor with Hydraulic Trolly</a></li>
-              <li><a href="tractor-with-scraper.html">Tractor with Scraper (for leveling)</a></li>
-              <li><a href="tractor-with-water-tanker.html">Tractor with Water Tanker</a></li>
-              <li><a href="tractor-with-hydraulic-compressor.html">Tractor with Hydraulic Compressor</a></li>
+            <li><a href="excavator-hyundai-r215l-with-rock-breaker.php">Excavator Hyundai R215L with Rock Breaker</a></li>
+            <li><a href="excavator-hyundai-r140l.php">Excavator Hyundai R140L</a></li>
+              <li><a href="excavator-lt-komatsu-pc-200.php">Excavator L&amp;T Komatsu PC-200</a></li>
+              <li><a href="excavator-lt-komatsu-pc-200-long-boom.php">Excavator L&amp;T Komatsu PC-200 Long Boom</a></li>
+              <li><a href="vibratore-roller.php">Vibratore Roller</a></li>
+              <li><a href="pevar-machine.php">Pevar Machine</a></li>
+              <li><a href="excavator-cum-rock-breaker-tata-ex-200.php">Excavator cum Rock Breaker Tata Ex-200</a></li>
+              <li><a href="excavator-tata-ex-120.php">Excavator Tata Ex-120</a></li>
+              <li><a href="excavator-cum-loader-jcb.php">Excavator cum Loader JCB (3DX)</a></li>
+              <li><a href="hyva-tata.php">Hyva Tata (600cft)</a></li>
+              <li><a href="rmc-concrete-mixer.php">Concrete Mixer</a></li>
+              <li><a href="bharat-benz-1623c.php">Bharat Benz 1623C</a></li>
+              <li><a href="tractor-with-hydraulic-trolly.php">Tractor with Hydraulic Trolly</a></li>
+              <li><a href="tractor-with-scraper.php">Tractor with Scraper (for leveling)</a></li>
+              <li><a href="tractor-with-water-tanker.php">Tractor with Water Tanker</a></li>
+              <li><a href="tractor-with-hydraulic-compressor.php">Tractor with Hydraulic Compressor</a></li>
             </ul>
           </li>
           </li>
-          <li style="z-index: 91;"><a class="" href="demolition-services.html">Demolition Service</a></li>
-          <li style="z-index: 91;"><a class="" href="services-available.html">Services Available</a></li>
-          <li style="z-index: 91;"><a class="" href="key-personnel.html">Key Personnel</a></li>
-          <li style="z-index: 91;"><a class="" href="enquiry.html">Enquiry</a></li>
-          <li style="z-index: 91;"><a class="" href="contactus.html" >Contact Us</a></li>
+          <li style="z-index: 91;"><a class="" href="demolition-services.php">Demolition Service</a></li>
+          <li style="z-index: 91;"><a class="" href="services-available.php">Services Available</a></li>
+          <li style="z-index: 91;"><a class="" href="key-personnel.php">Key Personnel</a></li>
+          <li style="z-index: 91;"><a class="" href="enquiry.php">Enquiry</a></li>
+          <li style="z-index: 91;"><a class="" href="contactus.php" >Contact Us</a></li>
         </ul>
       </div></td>
     </tr>
